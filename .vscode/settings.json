@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "new": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "istream": "cpp",
+        "algorithm": "cpp",
+        "__hash_table": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "map": "cpp"
+    }
+}
